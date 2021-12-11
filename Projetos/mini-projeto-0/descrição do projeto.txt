@@ -1,0 +1,6 @@
+O objetivo do mini-projeto 0 é implementar um seguidor de linha fazendo uso das técnicas de processamento de imagens.
+
+
+
+GitHub: https://github.com/wlcosta/es235_pdi/tree/master/mini_projeto0
+CoppeliaSim: https://www.coppeliarobotics.com/downloads
