@@ -1,1 +1,0 @@
-Remover o logotipo de um vídeo usando Inpaint;
